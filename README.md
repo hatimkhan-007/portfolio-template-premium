@@ -46,10 +46,6 @@ The goal of this project is to:
 * Backend-powered contact form
 * Performance and SEO optimization
 
-## 📷 Preview
-
-Add screenshots or a live demo link here after deployment.
-
 ## 📬 Contact
 
 If you'd like to collaborate or connect, feel free to reach out through the contact section of the portfolio.
